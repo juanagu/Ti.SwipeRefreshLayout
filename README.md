@@ -1,3 +1,8 @@
+DEPRECATED MODULE.
+
+Appcelerator include RefreshControl for Android in 6.3+.
+
+
 Ti.SwipeRefreshLayout Titanium Module
 ===========================================
 
